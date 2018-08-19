@@ -1,7 +1,7 @@
 // This is brain and eyes of DrWatson
 // Get required GPIO module from onOff
 import {Gpio} from 'onoff'
-import {sendMsg} from './messanger'
+import {sendMsg} from './messenger'
 import config from './config'
 
 // Sensor
