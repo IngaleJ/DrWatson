@@ -27,3 +27,4 @@ World famous Sherlock Homes friend Dr.Watson is ready to send message when some 
     $ sudo npm start 
 ``` 
 and now Dr.Watson is Ready!!
+	![N|Solid](https://github.com/IngaleJ/DrWatson/blob/4444c2f2c5a9b81721e557efbb609d32c9832460/DrWatson.PNG)
