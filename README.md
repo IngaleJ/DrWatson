@@ -1,7 +1,7 @@
 
-# DrWatson@home
+# Dr.Watson@home
 ### A simple intruder detector bot using JavaScript and RaspberryPi 
-World famous Sherlock Homes friend Dr. Watson is ready to send message when some body inside your home , we can have photo of intruder but he need help of Sherlock for smart work, may be in next episode ..
+World famous Sherlock Homes friend Dr.Watson is ready to send message when some body inside your home, we can have photo of intruder but he need help of Sherlock for smart work, may be in next episode ..
 #### Prerequisite
 1.	Raspberry pi :- A small and affordable computer that you can use to learn programming
 	https://www.raspberrypi.org/
@@ -9,7 +9,7 @@ World famous Sherlock Homes friend Dr. Watson is ready to send message when some
     https://learn.adafruit.com/pir-passive-infrared-proximity-motion-sensor?view=all
 3.	Breadboard: - Used for prototyping electronics, it allows you to create circuits without soldering.
 4.	Jumper wires
-#### Steps to have Dr. Watson in action,
+#### Steps to have Dr.Watson in action,
 1.	Create a simple webhook on your slack channel detail steps follow on
     https://api.slack.com/incoming-webhooks
 2.	Install latest version of node and npm on raspberry pi using following article
@@ -26,7 +26,4 @@ World famous Sherlock Homes friend Dr. Watson is ready to send message when some
 ```sh
     $ sudo npm start 
 ``` 
-   and now 
-```sh
-    DrWatson is Ready!!
-``` 
+and now Dr.Watson is Ready!!
