@@ -26,7 +26,7 @@ World famous Sherlock Homes friend Dr. Watson is ready to send message when some
 ```sh
     $ sudo npm start 
 ``` 
-	and now 
+   and now 
 ```sh
     DrWatson is Ready!!
 ``` 
