@@ -7,7 +7,7 @@ import config from './config'
 // Sensor
 const pin = config && config.pin ? config.pin : 4
 const sensor = new Gpio(pin, 'in', 'both')
-const defaultMsg = 'Be alert my dear friend, some one is here'
+const defaultMsg = 'Be alert my dear friend, someone is here'
 // onOff provide method => watch(callback)
 // https://github.com/fivdi/onoff#watchcallback
 sensor.watch(function (err, value) {
