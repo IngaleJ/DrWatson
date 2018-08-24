@@ -20,7 +20,7 @@ Beta Detective. And perfect version may be in next episode ..
 (They have python code its good, but we have similar logic written JavaScript) 
     [![N|Solid](https://projects-static.raspberrypi.org/projects/physical-computing/0cb2cbd34292a05a668aeea3f291ceb3c7d9cd83/en/images/pir_wiring.png)](https://nodesource.com/products/nsolid)
  
-4.	Create new directory and clone this repo and install dependency using 
+4.	Create new directory and clone this repo and install dependencies using 
 ```sh
     $ sudo npm install
 ```
