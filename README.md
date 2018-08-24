@@ -1,7 +1,7 @@
 
 # Dr.Watson@home
 ### A simple intruder detector bot using JavaScript and RaspberryPi 
-World famous Sherlock Homes' friend Dr.Watson is ready to send message when some body unwanted found inside your home, 
+World famous Sherlock Homes' friend Dr.Watson is ready to send message when somebody unwanted found inside your home, 
 we can have a photo of intruder, since Dr.Watson may not provide solution like Sherlok Homes. Anyway he can work like
 Beta Detective. And perfect version may be in next episode ..
 #### Prerequisite
