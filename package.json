@@ -13,7 +13,7 @@
     "babel-preset-env": "^1.7.0",
     "nodemon": "^1.18.3"
   },
-  "author": "",
+  "author": "jayendraingale07@outlook.com",
   "license": "ISC",
   "dependencies": {
     "onoff": "^3.1.0"
